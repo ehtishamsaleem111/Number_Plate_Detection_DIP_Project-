@@ -1,8 +1,6 @@
-# Number_Plate_Detection_DIP_Project-
-A Streamlit-based project for vehicle number plate detection using Digital Image Processing techniques like grayscale conversion, bilateral filtering, edge detection, and contour approximation with OpenCV. The extracted plate region is then processed with EasyOCR for alphanumeric text recognition.
 # 🚗 Number Plate Detection - DIP Project
-
-A classical image processing project built using OpenCV and Streamlit to automatically detect and read vehicle number plates from images. This solution aims to automate the manual logging process at checkpoints such as university gates and small-scale entry systems.
+A Streamlit-based project for vehicle number plate detection using Digital Image Processing techniques like grayscale conversion, bilateral filtering, edge detection, and contour approximation with OpenCV. The extracted plate region is then processed with EasyOCR for alphanumeric text recognition.
+* A classical image processing project built using OpenCV and Streamlit to automatically detect and read vehicle number plates from images. This solution aims to automate the manual logging process at checkpoints such as university gates and small-scale entry systems.
 
 
 ## ⚙️ How It Works
