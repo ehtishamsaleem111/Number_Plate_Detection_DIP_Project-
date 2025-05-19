@@ -51,7 +51,7 @@ This project follows a pipeline of classical image processing techniques:
 
 Here’s a screenshot of the system in action:
 
-![Demo Screenshot](testing_Screenshot_3.jpg)
+![Demo Screenshot](Demo_Screenshots/testing_Screenshot_3.jpg)
 
 > Make sure you place the image in a folder named `screenshots` in your repo.
 
