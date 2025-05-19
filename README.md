@@ -53,17 +53,18 @@ Here’s a screenshot of the system in action:
 
 ![Demo Screenshot](Demo_Screenshots/testing_Screenshot_3.jpg)
 
-> Make sure you place the image in a folder named `screenshots` in your repo.
 
 ---
 
-## 🔧 Technologies Used
+## 🔧 Technologies Used and Project Requirements
 
 - Python
 - OpenCV
 - NumPy
 - EasyOCR
 - Streamlit
+
+> pip freeze > requirements.txt
 
 ---
 
