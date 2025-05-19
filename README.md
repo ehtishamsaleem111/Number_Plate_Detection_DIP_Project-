@@ -58,13 +58,17 @@ Here’s a screenshot of the system in action:
 
 ## 🔧 Technologies Used and Project Requirements
 
-- Python
-- OpenCV
-- NumPy
-- EasyOCR
-- Streamlit
+- opencv-python for cv2
+- streamlit for the web app interface
+- numpy for array processing
+- pillow (PIL) for image handling (sometimes Streamlit uses this)
+- easyocr for OCR text extraction
 
-> pip freeze > requirements.txt
+> pip install -r requirements.txt
+---
+
+## Run App
+> streamlit run number_plate_code.py
 
 ---
 
